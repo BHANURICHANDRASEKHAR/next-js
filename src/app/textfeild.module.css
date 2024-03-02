@@ -1,0 +1,10 @@
+.input{
+    outline: none;
+    height: 40px;
+    width: auto;
+    margin: 20px;
+    border: none;
+    caret-color: red;
+    background:transparent;
+    color: red;
+}

@@ -1,0 +1,10 @@
+.nav{
+    display:flex;
+    background-color: transparent;
+   justify-content:end;
+}
+.nav ul li{
+    list-style:none;
+    display:inline-block;
+    padding:10px;
+}
